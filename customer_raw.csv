@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Email,City,Membership,Status
+1001,  jyothika gaddam ,JYOTHIKA.GADDAM@GMAIL.COM , Hyderabad ,Premium , Active 
+1002,RAHUL   SHARMA, rahul.sharma@example.com,BENGALURU, standard,ACTIVE
+1003,sneha reddy,SNEHA.REDDY@EXAMPLE.COM, hyderabad,PREMIUM,active
+1004,  Arjun Kumar,arjun.kumar@example.com  ,Chennai ,Standard, Inactive
+1005,PRIYA   NAIR ,priya.nair@example.com,KOCHI, premium,ACTIVE 
+1006,mohammed ali, mohammed.ali@example.com ,Mumbai,Standard ,inactive
+1007,Ananya Rao,ananya.rao@example.com, pune ,Premium,Active
+1008,VIKRAM SINGH,vikram.singh@example.com,Delhi,STANDARD, ACTIVE
+1009,meera   krishnan,meera.krishnan@example.com,Chennai,premium,Inactive
+1010,Kiran Patel ,kiran.patel@example.com, Ahmedabad ,Standard,Active
+1011,  Divya Menon,divya.menon@example.com ,Kochi,Premium,active
+1012,rohit verma,ROHIT.VERMA@EXAMPLE.COM,Lucknow,standard,Inactive
+1013,Sanjay  Kumar,sanjay.kumar@example.com,Bengaluru ,Premium,Active
+1014,NEHA GUPTA,neha.gupta@example.com,Jaipur,Standard,active
+1015,Aadhya Iyer,aadhya.iyer@example.com,Chennai,Premum,Active
+1016,Ramesh Babu,ramesh.babu@example.com,Hydrabad,Standard,Inactive
+1017,  Pooja Shah  ,pooja.shah@example.com,Mumbai ,Premium,ACTIVE
+1018,Karthik   Rao,karthik.rao@example.com,Bengaluru,Standard,active
+1019,isha kapoor,isha.kapoor@example.com,New Delhi,premium,Inactive
+1020,Varun Das,varun.das@example.com,Kolkata,Standard,Active

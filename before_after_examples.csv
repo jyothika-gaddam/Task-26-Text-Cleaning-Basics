@@ -1,0 +1,7 @@
+Before,After,Cleaning_Action
+  jyothika gaddam ,Jyothika Gaddam,Removed leading/trailing spaces and standardized capitalization
+RAHUL   SHARMA,Rahul Sharma,Collapsed repeated spaces and standardized capitalization
+JYOTHIKA.GADDAM@GMAIL.COM ,jyothika.gaddam@gmail.com,Trimmed spaces and converted email to lowercase
+BENGALURU,Bengaluru,Standardized city capitalization
+Premum,Premium,Corrected a known membership spelling variation
+Hydrabad,Hyderabad,Corrected a known city spelling variation
